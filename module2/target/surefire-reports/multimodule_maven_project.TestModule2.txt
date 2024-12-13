@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: multimodule_maven_project.TestModule2
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.741 s -- in multimodule_maven_project.TestModule2
